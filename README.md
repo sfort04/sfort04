@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephen! <br/><a href="https://github.com/sfort04">Veteran</a>, <a href="https://www.linkedin.com/in/stephenfort/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Stephen! <br/><a href="https://github.com/sfort04">Army Veteran</a>, <a href="https://www.linkedin.com/in/stephenfort/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
