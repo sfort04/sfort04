@@ -5,8 +5,9 @@
   - [Active Directory Home Lab](https://github.com/sfort04/LABURL)
 
 <h2>📄 Certifications:</h2>
-<img align="left" alt="StephenFort" | Security+" width="44px" src="https://github.com/sfort04/sfort04/assets/46600225/1fd5f202-8b5e-4d5e-865e-909b8528ba39" />
-<img align="left" alt="StephenFort" | Security+" width="44px" src="https://github.com/sfort04/sfort04/assets/46600225/1e7178c4-ad81-4711-a9ad-ecb2785bdbbb" />
+<img align="left" alt="StephenFort" | Security+" width="60px" src="https://github.com/sfort04/sfort04/assets/46600225/1fd5f202-8b5e-4d5e-865e-909b8528ba39" />
+<img align="left" alt="StephenFort" | Security+" width="60px" src="https://github.com/sfort04/sfort04/assets/46600225/4bbab567-c32a-4503-896c-dda0b26e4500" />
+
 
 <br>
 <br>
