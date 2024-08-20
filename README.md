@@ -20,8 +20,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Stephen Fort" | LinkedIn" width="22px" src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />][linkedin]
-
-
 [linkedin]: https://linkedin.com/in/stephenfort
 
 <!--
