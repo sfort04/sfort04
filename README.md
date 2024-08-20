@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/sfort04/LABURL)
   - [Azure Siem Lab](https://github.com/sfort04/AzureSiemLAB)
-  - [Birthday Paradox](https://github.com/sfort04/BirthdayPardox)
+  - [Birthday Paradox](https://github.com/sfort04/BirthdayParadox)
 
 <h2>📄 Certifications:</h2>
 <img align="left" alt="StephenFort" | Security+" width="60px" src="https://github.com/sfort04/sfort04/assets/46600225/1fd5f202-8b5e-4d5e-865e-909b8528ba39" />
