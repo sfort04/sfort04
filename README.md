@@ -16,10 +16,9 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="StephenFort" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/stephenfort
-
+<a href="https://linkedin.com/in/stephenfort/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" title="Linkedin" align="left" width="22px" />
+</a>
 
 <!--
 **sfort04/sfort04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
