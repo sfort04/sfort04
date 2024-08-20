@@ -1,9 +1,10 @@
 <h1>Hi, I'm Stephen! <br/><a href="https://github.com/sfort04">Army Veteran</a>, <a href="https://www.linkedin.com/in/stephenfort/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/sfort04/LABURL)
   - [Azure Siem Lab](https://github.com/sfort04/AzureSiemLAB)
+  - [Birthday Paradox](https://github.com/sfort04/BirthdayPardox)
 
 <h2>📄 Certifications:</h2>
 <img align="left" alt="StephenFort" | Security+" width="60px" src="https://github.com/sfort04/sfort04/assets/46600225/1fd5f202-8b5e-4d5e-865e-909b8528ba39" />
