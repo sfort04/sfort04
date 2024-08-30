@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/sfort04/LABURL)
+  - [Active Directory Home Lab](https://github.com/sfort04/ActiveDirectoryLab)
   - [Azure Siem Lab](https://github.com/sfort04/AzureSiemLAB)
   - [Birthday Paradox](https://github.com/sfort04/BirthdayParadox)
 
