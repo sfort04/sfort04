@@ -17,7 +17,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/stephenfort/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" title="Linkedin" align="left" width="22px" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" title="Linkedin" align="left" width="30px" />
 </a>
 
 <!--
